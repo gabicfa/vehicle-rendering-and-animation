@@ -1,4 +1,4 @@
-# vehicle-rendering-and-animation
+# Vehicle Rendering and Animation
 
 ## Goal
   * Apply the knowledge and techniques acquired in the Computer Graphics module from the University of Porto
@@ -19,3 +19,5 @@ A four-wheeled motor vehicle and the terrain where the vehicle travels were mode
 An interface for the selection of textures was built, integrated into the application's GUI and the terrain was modeled with altimetry, modifying the terrain class so that the plane vertices have a variable height.
 
 Finally, an articulated crane with a magnet that interacts with the vehicle was modeled.
+
+Created at 2018.1
